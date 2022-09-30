@@ -1,1 +1,1 @@
-echo "Hello, world! The time is 2022."
+echo "Hello, world! The time is 2022. "
